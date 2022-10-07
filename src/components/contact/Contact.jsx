@@ -27,14 +27,14 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
-            <h5>Senkiysma@gmail.com</h5>
-            <a href="mailto::Senkiysma@gmail.com" target='__blank'>Gửi tin nhắn qua Email</a>
+            <h5>nguyenminhanh@gmail.com</h5>
+            <a href="mailto::nguyenminhanh@gmail.com" target='__blank'>Gửi tin nhắn qua Email</a>
           </article>
           <article className="contact__option">
             <RiMessengerLine className='contact__option-icon'/>
             <h4>Messenger</h4>
-            <h5>Senkiysma</h5>
-            <a href="https://m.me/senkuro.sj/" target='__blank'>Gửi tin nhắn qua Messenger</a>
+            <h5>Minh Anh</h5>
+            <a href="https://m.me/findtominhanh/" target='__blank'>Gửi tin nhắn qua Messenger</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon'/>
